@@ -1,0 +1,4 @@
+string node_name
+string status_service_name
+uint8 led_num
+---
